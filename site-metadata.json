@@ -1,6 +1,6 @@
 {
     "favicon": "images/kyani_store_icono310x310.png",
-    "logo_dark": "images/logo_kyani_white.svg",
+    "logo_dark": "images/logo_dark.svg",
     "hamburger_background_image": "/images/leaf-light-grey.svg",
     "bg_image_primary": "/images/header.jpg",
     "bg_image_secondary": "/images/leaf-light-grey.svg",
