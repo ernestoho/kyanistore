@@ -1,6 +1,6 @@
 ---
 id: '5'
-price: '220.00'
+price: '$2,910.00'
 title: Nitro FX
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
