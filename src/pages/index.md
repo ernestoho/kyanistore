@@ -4,7 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/header.jpg
+    background_image: images/hero_kyani.jpg
     background_image_opacity: 80
     content: "# SÉ MÁS\_SALUDABLE\n\nProductos naturales para ayudarte a verte y sentirte mejor.\n"
     actions:
