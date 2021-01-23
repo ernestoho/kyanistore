@@ -42,5 +42,6 @@
             "style": "link"
         }
     ],
-    "title": "KyaniStore"
+    "title": "KyaniStore",
+    "logo_light": "images/kyani_store_light2.svg"
 }
