@@ -1,5 +1,5 @@
 ---
-title: Cactuses
+title: Triángulo Kyäni
 order: 2
 section: Store
 template: category
