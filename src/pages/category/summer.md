@@ -1,5 +1,5 @@
 ---
-title: Summer plants
+title: Promociones
 order: 4
 section: Store
 template: category
