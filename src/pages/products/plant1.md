@@ -1,6 +1,6 @@
 ---
 id: '1'
-price: '49.40'
+price: '$2,910.10'
 title: Sunrise
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
