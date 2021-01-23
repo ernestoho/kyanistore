@@ -5,7 +5,7 @@ title: Vestibulum eget
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
-default_thumbnail_image: images/fx_kyani.png
+default_thumbnail_image: images/nitrofx1.jpg
 default_original_image: images/groovy-mahogany.png
 featured: true
 order: 5
