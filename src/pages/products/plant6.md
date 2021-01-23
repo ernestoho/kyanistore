@@ -3,7 +3,7 @@ id: '6'
 price: '100.00'
 title: Donec finibus
 description: Cras molestie faucibus ipsum ut vulputate.
-default_thumbnail_image: images/potatopack.jpg
+default_thumbnail_image: images/17047_4-7DTP_1.jpg
 default_original_image: images/potatopack.jpg
 order: 6
 category: src/pages/category/bigplants.md
