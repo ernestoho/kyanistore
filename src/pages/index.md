@@ -8,7 +8,7 @@ sections:
     background_image_opacity: 80
     content: "# SÉ MÁS\_SALUDABLE\n\nProductos naturales para ayudarte a verte y sentirte mejor.\n"
     actions:
-      - title: See all items
+      - title: Joseline
         url: /store
         arrow: true
         style: primary
