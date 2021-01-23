@@ -14,7 +14,7 @@ sections:
       - src/pages/products/plant7.md
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: ¡Genera ingresos con la oportunidad de negocio de Kyäni!
     subtitle: from $149.99
     image: images/unete.jpg
     cta:
