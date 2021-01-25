@@ -1,6 +1,6 @@
 ---
 id: '3'
-price: '$2,510.00'
+price: '2,510.00'
 title: Sunset
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/sunset1.jpg
