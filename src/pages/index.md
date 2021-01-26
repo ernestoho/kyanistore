@@ -49,7 +49,7 @@ sections:
     subtitle: from $149.99
     image: images/unete.jpg
     cta:
-      title: Discover
+      title: Contactanos
       url: /store
       style: secondary
 template: home
